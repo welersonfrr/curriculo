@@ -108,6 +108,12 @@ h2 {
   align-items: center;
   justify-content: center;
   border-radius: 50%;
+  box-shadow: 0 5px #23ad7b;
+}
+
+.social-icons:active {
+  box-shadow: none;
+  transform: translateY(5px);
 }
 
 .social-button {
