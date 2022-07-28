@@ -30,7 +30,7 @@ a {
   color: inherit;
 }
 
-.navbar {
+header {
   display: flex;
   flex-direction: column;
   align-items: center;
